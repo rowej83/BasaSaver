@@ -1,5 +1,5 @@
 ;*****************************************
-;BasaSaver.au3 by shizzot
+;BasaSaver.au3 by Jason Rowe
 ;Created with ISN AutoIt Studio v. 0.95 BETA
 ;*****************************************
 
@@ -14,6 +14,8 @@
 #include "Forms\Mainform.isf"
 Opt("GUIOnEventMode", 1)
 #NoTrayIcon
+
+
 
 ;Includes
 
